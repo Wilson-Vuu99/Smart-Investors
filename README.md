@@ -67,6 +67,5 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or collaboration, reach out via [your email or GitHub profile link].
+
 
